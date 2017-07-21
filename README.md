@@ -1,2 +1,2 @@
-# demo
-A demo based on Nodejs, having some easy function.
+# MySQLdemo
+A demo based on Nodejs.Express, having some easy SQL function.
